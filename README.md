@@ -1,19 +1,19 @@
 # iOS Image Gallery
 
-A SwiftUI image gallery app built to explore photo-based layouts, visual browsing experiences, and clean content presentation in iOS.
+A SwiftUI image gallery app built to showcase organized media browsing, clean visual layout, and an interactive detail-view experience in a polished mobile interface.
 
 ## Overview
 
-This project focuses on creating a polished image browsing experience using SwiftUI. It demonstrates my ability to design clean visual layouts, organize media content, and build structured iOS interfaces around user interaction.
+This project was created as part of my iOS development portfolio to demonstrate visual UI design in SwiftUI. The app focuses on presenting image-based content in a clean and structured way, with a gallery-style layout that allows users to browse items, view details, flip between content states, and manage the gallery layout.
 
 ## Features
 
-- Image gallery browsing
-- Clean visual layout
-- Organized content presentation
-- SwiftUI-based interface
-- Simple and polished user experience
-- Reusable gallery-style structure
+- Image gallery grid layout
+- Tap-to-view detail experience
+- Flip interaction between photo and recipe view
+- Manage mode for gallery organization
+- Clean visual structure
+- SwiftUI-based interface with a polished browsing flow
 
 ## Built With
 
@@ -21,22 +21,45 @@ This project focuses on creating a polished image browsing experience using Swif
 - SwiftUI
 - Xcode
 
+## Screenshots
+
+### Gallery Screen
+Shows the main gallery layout with multiple visual items displayed in an organized grid.
+
+![Gallery Screen](screenshots/gallery-screen.png)
+
+### Detail Photo View
+Shows the focused detail screen for an individual item with a larger image presentation.
+
+![Detail Photo View](screenshots/detail-photo-screen.png)
+
+### Recipe View
+Shows the flipped detail card state, allowing the user to view recipe content instead of the image.
+
+![Recipe View](screenshots/recipe-view-screen.png)
+
+### Manage Gallery Mode
+Shows the editable gallery layout with management controls for organizing displayed items.
+
+![Manage Gallery Mode](screenshots/manage-gallery-screen.png)
+
 ## What This Project Demonstrates
 
-- Visual UI design in SwiftUI
-- Image-based layout creation
-- Reusable components
-- Clean presentation logic
-- iOS interface organization
-- User-focused gallery design
+- SwiftUI layout design
+- Image-based UI structure
+- Grid-style presentation
+- Navigation between screens
+- Interactive content states
+- Clean visual hierarchy
+- Reusable interface components
 
-## Project Purpose
+## Why I Built It
 
-The goal of this app was to strengthen my SwiftUI skills through a visually driven project and build a clean gallery experience that reflects strong attention to layout, structure, and presentation.
+I wanted to practice building a more visual SwiftUI app that focused on presentation, structure, and user-friendly browsing. This project helped me strengthen my understanding of layout composition, screen flow, and interactive image-driven design.
 
 ## Status
 
-Completed as a portfolio iOS project and SwiftUI practice build.
+Completed as a portfolio iOS project.
 
 ## Author
 
